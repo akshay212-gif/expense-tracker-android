@@ -28,4 +28,4 @@ It provides real-timhttps://github.com/akshay212-gif/expense-tracker-android/blo
 
 ![Home](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI3.jpeg)
 ![Add Expense](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI1.jpeg)
-![View Expenses](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI1.jpeg)
+![Add Income](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI2.jpeg)
