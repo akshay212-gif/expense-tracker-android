@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1i0yEqoXNSLFkH3y6H6snf4k1ycxn3mhU/view?usp=shari
 
 ## 📖 Description
 This is a native Android application that helps users manage daily expenses and income.  
-It provides real-time calculation of total spending, income, and remaining budget.
+It provides real-timhttps://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI1.jpege calculation of total spending, income, and remaining budget.
 
 ## 🚀 How to Run
 - Clone the repo
@@ -26,6 +26,6 @@ It provides real-time calculation of total spending, income, and remaining budge
 
 - ## 📸 Screenshots
 
-![Home](PASTE_IMAGE_LINK_HERE)
-![Add Expense](PASTE_IMAGE_LINK_HERE)
-![View Expenses](PASTE_IMAGE_LINK_HERE)
+![Home](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI3.jpeg)
+![Add Expense](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI1.jpeg)
+![View Expenses](https://github.com/akshay212-gif/expense-tracker-android/blob/main/TrackerappUI1.jpeg)
