@@ -15,9 +15,6 @@
 ## 📦 APK Download
 https://drive.google.com/file/d/1i0yEqoXNSLFkH3y6H6snf4k1ycxn3mhU/view?usp=sharing
 
-## 🎥 Demo Video
-[Optional: Paste video link]
-
 ## 📖 Description
 This is a native Android application that helps users manage daily expenses and income.  
 It provides real-time calculation of total spending, income, and remaining budget.
