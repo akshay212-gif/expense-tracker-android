@@ -23,3 +23,9 @@ It provides real-time calculation of total spending, income, and remaining budge
 - Clone the repo
 - Open in Android Studio
 - Run on emulator or real device
+
+- ## 📸 Screenshots
+
+![Home](PASTE_IMAGE_LINK_HERE)
+![Add Expense](PASTE_IMAGE_LINK_HERE)
+![View Expenses](PASTE_IMAGE_LINK_HERE)
